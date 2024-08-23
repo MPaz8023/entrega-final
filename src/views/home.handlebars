@@ -1,0 +1,24 @@
+
+<h1>Mundo Candy</h1>
+
+<div class="contenedorProductos">
+    {{#each productos}}
+        <div class="card">
+            <p> {{this.title}} </p>
+    
+            <p> {{this.description}} </p>
+            <p> {{this.price}} </p>
+            <button>Comprar</button>
+        </div>
+    {{/each}}
+</div>
+
+{{#if hasPrevPage}}
+    <a href=""> Anterior </a>
+{{/if}}
+
+{{#if hasNextPage}}
+    <a href=""> Siguiente </a>
+{{/if}}
+<p> Pagina {{currentPage}} de {{totalPage}}</p>
+

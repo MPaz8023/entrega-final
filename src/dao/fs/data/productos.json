@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "title": "Alfajor Guaymallen",
+    "description": "El mas relleno",
+    "code": "abc1234",
+    "price": 100,
+    "status": true,
+    "stock": 1000,
+    "category": "alfajor",
+    "thumbnail": "sin imagen"
+  },
+  {
+    "id": 2,
+    "title": "Alfajor Jorgito",
+    "description": "El mas rico",
+    "code": "abc1235",
+    "price": 110,
+    "status": true,
+    "stock": 1000,
+    "category": "alfajor",
+    "thumbnail": "sin imagen"
+  },
+  {
+    "id": 3,
+    "title": "Alfajor Fulbito",
+    "description": "El mas ganador",
+    "code": "abc1236",
+    "price": 80,
+    "status": true,
+    "stock": 1000,
+    "category": "alfajor",
+    "thumbnail": "sin imagen"
+  },
+  {
+    "id": 4,
+    "title": "Alfajor Bon o Bon",
+    "description": "El mas suave",
+    "code": "abc1237",
+    "price": 150,
+    "status": true,
+    "stock": 1000,
+    "category": "alfajor",
+    "thumbnail": "sin imagen"
+  },
+  {
+    "id": 5,
+    "title": "Chocolate Milka",
+    "description": "El mas dulce",
+    "code": "abc1238",
+    "price": 300,
+    "status": true,
+    "stock": 1000,
+    "category": "chocolate",
+    "thumbnail": "sin imagen"
+  },
+  {
+    "id": 6,
+    "title": "Chocolate Block",
+    "description": "El mas crocante",
+    "code": "abc1239",
+    "price": 320,
+    "status": true,
+    "stock": 1000,
+    "category": "chocolate",
+    "thumbnail": "sin imagen"
+  },
+  {
+    "id": 7,
+    "title": "Chocolate Oreo",
+    "description": "Para compartir",
+    "code": "abc1240",
+    "price": 600,
+    "status": true,
+    "stock": 1000,
+    "category": "chocolate",
+    "thumbnail": "sin imagen"
+  },
+  {
+    "id": 8,
+    "title": "Gomitas Yummi",
+    "description": "Las mas ricas",
+    "code": "abc1242",
+    "price": 100,
+    "status": true,
+    "stock": 1000,
+    "category": "golosinas",
+    "thumbnail": "sin imagen"
+  },
+  {
+    "id": 9,
+    "title": "Chupetin bolita",
+    "description": "El mas redondo",
+    "code": "abc1244",
+    "price": 30,
+    "status": true,
+    "stock": 1000,
+    "category": "golosinas",
+    "thumbnail": "sin imagen"
+  },
+  {
+    "id": 10,
+    "title": "Caramelos Sugus",
+    "description": "Los mas blanditos",
+    "code": "abc1250",
+    "price": 160,
+    "status": true,
+    "stock": 1000,
+    "category": "golosinas",
+    "thumbnail": "sin imagen"
+  }
+]
